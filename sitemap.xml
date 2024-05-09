@@ -2,40 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/example/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/diary/2024/04/17-01-27_book-code-toc-link/</loc>
+    <lastmod>2024-05-08T14:30:58+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hugo/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/ebook/</loc>
+    <lastmod>2024-05-08T14:30:58+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/diary/08/09.02.18_book-example-html-to-js-to-html-keep-syntax/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-08T14:30:58+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/markdown/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-08T14:30:58+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-08T14:30:58+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/diary/old/2016-07-10-04_integrate-the-960-grid-system/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/diary/2023/11/26-01-26_compare-diff-folder/</loc>
+    <lastmod>2024-03-06T06:50:43+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/version/</loc>
+    <lastmod>2024-03-06T06:50:43+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/diary/2024/02/12-01-12_diff-compare-version/</loc>
+    <lastmod>2024-03-06T06:47:33+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/diary/trytoc/2016-07-10-05b_tesssss/</loc>
-    <lastmod>2023-08-23T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/diary/2024/01/02-01-18_getlinkpath-for-version-diff/</loc>
+    <lastmod>2024-02-12T06:56:17+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/diary/old/2016-07-10-05b_buildcss_banner_section/</loc>
-    <lastmod>2016-04-30T14:57:25+08:00</lastmod>
+    <loc>http://localhost:1313/tags/target/</loc>
+    <lastmod>2024-02-12T06:56:17+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/cat/</loc>
-    <lastmod>2016-04-30T14:57:25+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2016-04-30T14:57:25+08:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
